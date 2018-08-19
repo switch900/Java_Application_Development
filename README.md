@@ -7,9 +7,9 @@ inner classes, file i/o, an overview of database connectivity, an introduction t
 model-view-controller and other design patterns, and networks. Lectures and code examples are reinforced with hands-on labs,
 assignments, and mandatory online work outside of class using D2L. Successful participants will learn to use the 
 Java standard coding style and naming conventions to build and deploy Java applications.
-<ul>
-Upon successful completion of this course, the student will be able to:
 
+Upon successful completion of this course, the student will be able to:
+<ul>
 <li>Install and use the Java Software Developer Kit (SDK) Standard Edition and an Integrated Development Environment (IDE) to develop Java applications.</li>
 <li>Explore the use of Eclipse as a Java IDE.</li>
 <li>Debug programs using a variety of methods including breakpoints, traces, and code stepping.</li>
