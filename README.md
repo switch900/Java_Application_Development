@@ -1,4 +1,4 @@
-# Java_Application_Development
+# Java Application Development
 
 This hands-on, intensive intermediate level Java course assumes a prior knowledge of object oriented programming
 as taught in COMP 1451. Students who have a solid introduction to programming will learn Java application development
